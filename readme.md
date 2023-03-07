@@ -6,7 +6,7 @@ These are the development tools I've configured:
 - Tailwind CSS
 - Prettier
 
-# I've installed these tools as dev dependencies using the following command:
+### I've installed these tools as dev dependencies using the following command:
 
 - npm i standard prettier -D
 - npm i -D tailwindcss postcss autoprefixer
